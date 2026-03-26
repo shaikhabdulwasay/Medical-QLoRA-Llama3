@@ -61,4 +61,4 @@ These lightweight weights (~80MB) can be loaded on top of any standard Llama 3 8
 **Base Llama 3:** *(Provides a general, standard web-search-style answer).*
 **My Fine-Tuned Model:** *(Provides a highly structured, clinically-focused response detailing physical exams, auscultation findings like crackles/rales, and specific imaging modalities like Chest X-rays and CT scans, mirroring the tone of a medical professional).*
 
-DEVELOPED BY ### SHAIKH ABDUL WASAY
+DEVELOPED BY SHAIKH ABDUL WASAY
